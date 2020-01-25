@@ -4,6 +4,7 @@ import Loader from 'react-loader-spinner';
 
 import { fetchBrewery } from '../actions';
 
+
 const Brewery= props => {
   console.log(props)
   return (
